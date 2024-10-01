@@ -35,6 +35,7 @@ The objective of this HR Analytics project is to analyze employee attrition tren
 ## Dashboard Interaction
 <br>
 <a href="https://github.com/SandaminiW/HR-_Analytics-_Dashboard/blob/main/HR_Dashboard.png">HR Analytics Dashboard</a>
+
 ## project insight
 
 - Total Employees: 1,470 employees, with 16.1% attrition.
