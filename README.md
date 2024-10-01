@@ -47,3 +47,6 @@ The objective of this HR Analytics project is to analyze employee attrition tren
 - Job Satisfaction: An average rating of 3.3 indicates moderate employee satisfaction. 
 ## Final Conclusion
 The HR Analytics Dashboard highlights a **high attrition rate (16.1%)**, especially in the **Sales department (56.12%)** and among **young employees (25-34 years old)**. **Job satisfaction (3.3/5)** is moderate, indicating room for improvement. Employees with **Bachelor's degrees** and **Sales Executives** face the highest turnover, suggesting career development and workload concerns. There's also a **gender imbalance (60% male, 40% female)** and higher attrition among **married employees**. Addressing these issues can improve retention and workforce stability.
+
+![HR_Dashboard](https://github.com/user-attachments/assets/ca1aa69c-2d8e-4d4d-be56-3695b03fa93b)
+
