@@ -2,11 +2,11 @@
 ## Project Objective
 The objective of this HR Analytics project is to analyze employee attrition trends and identify key factors contributing to turnover. It aims to provide insights into attrition by department, job role, age, education, and gender. The project also seeks to evaluate job satisfaction levels and highlight areas for improvement in employee retention strategies. Ultimately, it will help the organization make data-driven decisions to reduce turnover and improve overall workforce management.
 
-##Data Used
+## Data Used
 <br>
 <a href="https://github.com/SandaminiW/HR-_Analytics-_Dashboard/blob/main/HR%20DATA_Analysis.xlsx">DataSet</a>
 
-##KPI's Requirements
+## KPI's Requirements
 
 1. Total Employees: Total number of employees in the organization.
 
@@ -32,7 +32,17 @@ The objective of this HR Analytics project is to analyze employee attrition tren
 
 12. Attrition by Marital Status : Attrition rate based on marital status.
 
-##Dashboard Interaction
+## Dashboard Interaction
 <br>
 <a href="https://github.com/SandaminiW/HR-_Analytics-_Dashboard/blob/main/HR_Dashboard.png">HR Analytics Dashboard</a>
-  
+## project insight
+
+- Total Employees: 1,470 employees, with 16.1% attrition.
+
+- Active Employees: 1,233 are currently employed.
+
+- Attrition Insights: The dashboard breaks down attrition by factors like gender (60% male, 40% female), education level (Bachelor's degree holders have the highest attrition), department (Sales has the highest attrition at 56.12%), job role (Sales Executives lead in attrition), age group (25-34 years), and marital status (married employees have higher attrition).
+
+- Job Satisfaction: An average rating of 3.3 indicates moderate employee satisfaction. 
+## Final Conclusion
+The HR Analytics Dashboard highlights a **high attrition rate (16.1%)**, especially in the **Sales department (56.12%)** and among **young employees (25-34 years old)**. **Job satisfaction (3.3/5)** is moderate, indicating room for improvement. Employees with **Bachelor's degrees** and **Sales Executives** face the highest turnover, suggesting career development and workload concerns. There's also a **gender imbalance (60% male, 40% female)** and higher attrition among **married employees**. Addressing these issues can improve retention and workforce stability.
